@@ -69,6 +69,9 @@
                     <form action="{{route('contact.sendEmail')}}" method="post" id="contactForm" novalidate="novalidate" class="contact_from get_quote_form">
                         @csrf
                         <div class="form-group">
+                            <input type="text" class="form-control" id="company_name" name="company_name" value="{{old('company_name')}}" placeholder="Company Name">
+                        </div>
+                        <div class="form-group">
                             <input type="text" class="form-control" id="name" name="name" value="{{old('name')}}" placeholder="Your Name">
                         </div>
                         <div class="form-group">

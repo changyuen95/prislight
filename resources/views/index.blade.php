@@ -42,11 +42,11 @@
                 <div class="con_work_img">
                     <div class="wow fadeInLeft">
                         <div data-parallax='{"x": -10, "y": 10}' class="img_one">
-                            <img src="img/home/1.png" style="width:385px;height:520px" alt="">
+                            <img src="img/home/1.PNG" style="width:385px;height:520px" alt="">
                         </div>
                     </div>
                     <div data-parallax='{"x": -10, "y": -25}' class="img_two wow fadeInLeft">
-                        <img class="wow fadeInLeft" data-wow-delay="0.4s" src="img/home/3.png" style="width:440px;height:560px"alt="">
+                        <img class="wow fadeInLeft" data-wow-delay="0.4s" src="img/home/3.PNG" style="width:440px;height:560px"alt="">
                     </div>
                 </div>
             </div>
@@ -138,7 +138,7 @@
                 <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.2s">
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
-                        <img src="img/home-1/concept.png" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/concept.PNG" style="width:70px;height:70px"alt="">
                     </div>
                     <a href="#">
                         <h4>Design Concept</h4>
@@ -151,7 +151,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
                         {{-- <img src="img/home/icon2.png" alt=""> --}}
-                        <img src="img/home-1/projectmanagement.png" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/projectmanagement.PNG" style="width:70px;height:70px"alt="">
                     </div>
                     <a href="#">
                         <h4>Project Management</h4>
@@ -164,7 +164,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon4.png" alt=""> --}}
-                        <img src="img/home-1/logistic.png" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/logistic.PNG" style="width:70px;height:70px"alt="">
                     </div>
                     <a href="#">
                         <h4>Logistics</h4>
@@ -177,7 +177,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/installation.png" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/installation.PNG" style="width:70px;height:70px"alt="">
                     </div>
                     <a href="#">
                         <h4>Installation</h4>
@@ -191,7 +191,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/aftersalessvc.png" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/aftersalessvc.PNG" style="width:70px;height:70px"alt="">
                     </div>
                     <a href="#">
                         <h4>After Sales Service</h4>
