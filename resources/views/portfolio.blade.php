@@ -25,8 +25,15 @@
             <div data-filter=".in" class="work_portfolio_item">INDUSTRIAL</div>
             <div data-filter=".design" class="work_portfolio_item">INTERIOR DESIGN</div>
         </div> --}}
+        <div id="portfolio_filter" class="portfolio_filter">
+            <div data-filter="*" class="work_portfolio_item active">ALL</div>
+            <div data-filter=".planning" class="work_portfolio_item">Planning</div>
+            <div data-filter=".installation" class="work_portfolio_item">Installation</div>
+            <div data-filter=".maintenance" class="work_portfolio_item">Maintenance Services</div>
+            <div data-filter=".renovation" class="work_portfolio_item">Renovation Work</div>
+        </div>
         <div class="row portfolio_gallery" id="work-portfolio">
-            <div class="col-lg-4 col-sm-6 portfolio_item con in">
+            <div class="col-lg-4 col-sm-6 portfolio_item planning in">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/fastretailing.png" alt="">
                     <div class="hover_content">
@@ -35,7 +42,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item design build">
+            <div class="col-lg-4 col-sm-6 portfolio_item installation build">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/h&m.png" alt="">
                     <div class="hover_content">
@@ -44,7 +51,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item com design">
+            <div class="col-lg-4 col-sm-6 portfolio_item maintenance design">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/nitori.png" alt="">
                     <div class="hover_content">
@@ -53,7 +60,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item in con">
+            <div class="col-lg-4 col-sm-6 portfolio_item renovation maintenance">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/muji.png" alt="">
                     <div class="hover_content">
@@ -62,7 +69,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item design">
+            <div class="col-lg-4 col-sm-6 portfolio_item design renovation">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/decathlon.png" alt="">
                     <div class="hover_content">
@@ -71,7 +78,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item build">
+            <div class="col-lg-4 col-sm-6 portfolio_item build installation">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/coach.png" alt="">
                     <div class="hover_content">
@@ -80,7 +87,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item in con">
+            <div class="col-lg-4 col-sm-6 portfolio_item maintenance installation">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/katespade.png" alt="">
                     <div class="hover_content">
@@ -89,7 +96,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item design">
+            <div class="col-lg-4 col-sm-6 portfolio_item design planning maintenance">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/swarovski.png" alt="">
                     <div class="hover_content">
@@ -98,7 +105,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item build">
+            <div class="col-lg-4 col-sm-6 portfolio_item build installation">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/geox.png" alt="">
                     <div class="hover_content">
@@ -107,7 +114,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item in con">
+            <div class="col-lg-4 col-sm-6 portfolio_item maintenance installation">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/ikea.png" alt="">
                     <div class="hover_content">
@@ -116,7 +123,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item design">
+            <div class="col-lg-4 col-sm-6 portfolio_item design renovation planning">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/donki.png" alt="">
                     <div class="hover_content">
@@ -125,7 +132,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item build">
+            <div class="col-lg-4 col-sm-6 portfolio_item build installation">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/dyson.png" alt="">
                     <div class="hover_content">
@@ -134,7 +141,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 portfolio_item build">
+            <div class="col-lg-4 col-sm-6 portfolio_item build maintenance renovation">
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/boconcept.png" alt="">
                     <div class="hover_content">

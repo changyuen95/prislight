@@ -229,7 +229,7 @@
             </div>
             <div class="col-lg-12">
                 <div class="project_item">
-                    <img src="img/home/h&m.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/h&m.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>H&M Group (15+ years)</h4>
@@ -241,7 +241,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_3.jpg" alt=""> --}}
-                    <img src="img/home/nitori.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/nitori.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>NITORI (5+ years)</h4>
@@ -253,7 +253,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/muji.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/muji.PNG" style="width:470px;height:300px" alt="">
 
                     <div class="text">
                         <a href="{{route('portfolio')}}">
@@ -266,7 +266,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_3.jpg" alt=""> --}}
-                    <img src="img/home/decathlon.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/decathlon.PNG" style="width:470px;height:300px" alt="">
 
                     <div class="text">
                         <a href="{{route('portfolio')}}">
@@ -279,7 +279,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/coach.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/coach.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>COACH (10+ years)</h4>
@@ -291,7 +291,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/katespade.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/katespade.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>Kate Spade (10+ years)</h4>
@@ -303,7 +303,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/swarovski.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/swarovski.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>Swarovski (10+ years)</h4>
@@ -315,7 +315,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/geox.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/geox.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>GEOX (10+ years)</h4>
@@ -327,7 +327,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/ikea.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/ikea.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>IKEA (15+ years)</h4>
@@ -339,7 +339,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/donki.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/donki.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>DON DON DONKI (3+ years)</h4>
@@ -351,7 +351,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/dyson.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/dyson.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>Dyson (6+ years)</h4>
@@ -363,7 +363,7 @@
             <div class="col-lg-12">
                 <div class="project_item">
                     {{-- <img src="img/home/pr_1.jpg" alt=""> --}}
-                    <img src="img/home/boconcept.png" style="width:470px;height:300px" alt="">
+                    <img src="img/home/boconcept.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>BoConcept (5+ years)</h4>
