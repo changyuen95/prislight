@@ -36,7 +36,7 @@
                     <div class="contact_info_item">
                         <i class="ti-location-pin"></i>
                         <h3>Address</h3>
-                        <p>2602 Powder House Road, West Palm Beach, FL 33410</p>
+                        <p>D-01-01, Suite 10, Menara Mitraland, 13A, Jalan PJU 5/1, Kota Damansara, 47810 Petaling Jaya, Selangor</p>
                     </div>
                     <div class="contact_info_item">
                         <i class="ti-mobile"></i>
