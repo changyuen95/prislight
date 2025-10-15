@@ -218,7 +218,7 @@
         <div class="con_project_info" id="project_slider">
             <div class="col-lg-12">
                 <div class="project_item">
-                    <img src="img/home/fastretailing.png" style="width:470px;height:300px"alt="">
+                    <img src="img/home/fastretailing.PNG" style="width:470px;height:300px"alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
                             <h4>FAST RETAILING (5+ years)</h4>
