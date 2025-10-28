@@ -30,9 +30,9 @@ Route::get('/contactus', function () {
     return view('contact');
 })->name('contactus');
 
-Route::get('/team', function () {
-    return view('team');
-})->name('team');
+Route::get('/product', function () {
+    return view('product');
+})->name('product');
 
 Route::resource('contact', ContactUsController::class);
 Route::post('/contact/sendEmail', [ContactUsController::class, 'sendEmail'])->name('contact.sendEmail');

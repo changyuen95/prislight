@@ -4,7 +4,7 @@
 
 @section('content')
 <section class="banner_area">
-    <div class="overlay_bg parallax-effect" style="background: url(./img/contactus.jpg) no-repeat;"></div>
+    <div class="overlay_bg parallax-effect" style="background: url(./img/contact-banner.jpg) no-repeat;"></div>
     <div class="container">
         <div class="breadcrumb_content">
             <h2>Contact Us</h2>

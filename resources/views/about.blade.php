@@ -92,4 +92,103 @@
         </div>
     </div>
 </section>
+<!-- ================= About Overview ================= -->
+<section class="about_overview sec_gap">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 mb-4 mb-lg-0">
+                <img src="img/prislightlogo.jpg"  alt="Prislight Company" class="img-fluid rounded shadow">
+            </div>
+            <div class="col-lg-6">
+                <div class="section_title">
+                    <h2 class="con_title">Who We Are</h2>
+                    <div class="line_bottom"></div>
+                    <p class="con_p">
+                        Founded in Malaysia, Prislight Sdn Bhd is a leading provider of 
+                        retail solutions, lighting systems, and electronic components.  
+                        With a strong presence across Asia, our company has grown steadily through 
+                        innovation, professionalism, and customer-first philosophy.
+                    </p>
+                    <p class="con_p">
+                        Our team combines creative design, precise engineering, and modern technology 
+                        to deliver end-to-end retail concepts — from store layout planning to 
+                        turnkey installation and after-sales support.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ================= Vision & Mission ================= -->
+<section class="vision_mission_area sec_gap bg-light">
+    <div class="container">
+        <div class="section_title text-center mb-5">
+            <h2 class="con_title">Vision & Mission</h2>
+            <div class="line_bottom mx-auto"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="vision_box p-4 bg-white rounded shadow-sm">
+                    <h3 class="mb-3 text-uppercase text-warning">Our Vision</h3>
+                    <p class="con_p mb-0">
+                        To become the most trusted and innovative retail solutions provider in Asia, 
+                        empowering brands to create memorable customer experiences through smart technology and design.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 mt-4 mt-md-0">
+                <div class="mission_box p-4 bg-white rounded shadow-sm">
+                    <h3 class="mb-3 text-uppercase text-warning">Our Mission</h3>
+                    <ul class="list-unstyled con_p">
+                        <li>• Deliver high-quality retail and lighting systems that inspire trust.</li>
+                        <li>• Embrace technology to improve efficiency and sustainability.</li>
+                        <li>• Build long-term partnerships through integrity and service excellence.</li>
+                        <li>• Foster a collaborative, growth-oriented work environment.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ================= Why Choose Us ================= -->
+<section class="why_choose_us sec_gap">
+    <div class="container">
+        <div class="section_title text-center mb-5">
+            <h2 class="con_title">Why Choose Prislight</h2>
+            <div class="line_bottom mx-auto"></div>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-3 col-6 mb-4">
+                <div class="p-4 border rounded shadow-sm h-100">
+                    <img src="img/icons/experience.png" alt="" class="mb-3" style="width:50px;">
+                    <h5 class="mb-2">10+ Years Experience</h5>
+                    <p class="con_p mb-0">Trusted by leading regional brands across Asia.</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 mb-4">
+                <div class="p-4 border rounded shadow-sm h-100">
+                    <img src="img/icons/innovation.png" alt="" class="mb-3" style="width:50px;">
+                    <h5 class="mb-2">Innovative Design</h5>
+                    <p class="con_p mb-0">Creative and functional retail concepts tailored to your brand.</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 mb-4">
+                <div class="p-4 border rounded shadow-sm h-100">
+                    <img src="img/icons/support.png" alt="" class="mb-3" style="width:50px;">
+                    <h5 class="mb-2">Professional Support</h5>
+                    <p class="con_p mb-0">Dedicated team offering design, project, and after-sales services.</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 mb-4">
+                <div class="p-4 border rounded shadow-sm h-100">
+                    <img src="img/icons/quality.png" alt="" class="mb-3" style="width:50px;">
+                    <h5 class="mb-2">Quality Assurance</h5>
+                    <p class="con_p mb-0">We adhere to international quality and safety standards.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 @endsection

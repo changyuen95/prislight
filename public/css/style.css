@@ -1158,6 +1158,17 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   padding-bottom: 120px;
 }
 
+.about_overview img {
+  width: 100%;
+  max-width: 400px; /* adjust size if logo looks too big */
+  height: auto;
+  display: block;
+  padding: 10px;
+}
+
+.about_overview .col-lg-6:first-child {
+  padding-right: 40px;
+}
 /*=========== con_about_area_two ============*/
 /*=========== con_work_process_area ============*/
 .con_work_img {
@@ -2439,7 +2450,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .portfolio_gallery .hover_content h5 {
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 600;
   color: #fdb900;
   letter-spacing: 1px;
@@ -2460,7 +2471,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .portfolio_gallery .hover_content h4 {
-  font-size: 32px;
+  font-size: 22px;
   font-weight: 500;
   color: #fff;
   margin-bottom: 0;

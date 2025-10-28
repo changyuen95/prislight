@@ -79,7 +79,8 @@ class ContactUsController extends Controller
         }
 
     
-        Mail::to('receiver@example.com')->send(new ContactUsMail($request->all()));
+        Mail::to('sales@prislight.net')->send(new ContactUsMail($request->all()));
+        Mail::to('jay@prislight.net')->send(new ContactUsMail($request->all()));
     
         return redirect()->back()->with('success', 'Contact Us Successfully!');
     }

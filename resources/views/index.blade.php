@@ -12,8 +12,8 @@
                     <h5 data-animation="fadeInUp" data-delay="0.3s">WELCOME TO PRISLIGHT SDN BHD</h5>
                     <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions & Electronic Components</h1>
                     <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region <br> 100+ employees which include <br>Sales, Designer, Operations, R&D</p>
-                    <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
-                    <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a>
+                    {{-- <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
+                    <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a> --}}
                 </div>
             </div>
         </div>
@@ -138,7 +138,7 @@
                 <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.2s">
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
-                        <img src="img/home-1/concept.PNG" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/concept.PNG" style="width:100px;height:100px"alt="">
                     </div>
                     <a href="#">
                         <h4>Design Concept</h4>
@@ -151,7 +151,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
                         {{-- <img src="img/home/icon2.png" alt=""> --}}
-                        <img src="img/home-1/projectmanagement.PNG" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/projectmanagement.PNG" style="width:100px;height:100px"alt="">
                     </div>
                     <a href="#">
                         <h4>Project Management</h4>
@@ -164,7 +164,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon4.png" alt=""> --}}
-                        <img src="img/home-1/logistic.PNG" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/logistic.PNG" style="width:100px;height:100px"alt="">
                     </div>
                     <a href="#">
                         <h4>Logistics</h4>
@@ -177,7 +177,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/installation.PNG" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/installation.PNG" style="width:100px;height:100px"alt="">
                     </div>
                     <a href="#">
                         <h4>Installation</h4>
@@ -191,7 +191,7 @@
                     <div class="icon">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/aftersalessvc.PNG" style="width:70px;height:70px"alt="">
+                        <img src="img/home-1/aftersalessvc.PNG" style="width:100px;height:100px"alt="">
                     </div>
                     <a href="#">
                         <h4>After Sales Service</h4>
@@ -607,11 +607,11 @@
     </div>
 </section> --}}
 <section class="con_call_action_area">
-    <div class="overlay_bg parallax-effect" style="background: url(./img/home/action.jpg) no-repeat;"></div>
+    <div class="overlay_bg parallax-effect" style="background: url(./img/productbanner.jpg) no-repeat;"></div>
     <div class="container">
         <div class="d-flex action_info justify-content-between align-items-center">
             <h2 class="wow fadeInLeft" data-wow-delay="0.2s">We will provide you the best work<br> which you dreamt for!</h2>
-            <a href="{{route('contactus')}}" class="con_btn btn_effect wow fadeInRight" data-wow-delay="0.3s">FREE CONSULTATION</a>
+            <a href="{{route('product')}}" class="con_btn btn_effect wow fadeInRight" data-wow-delay="0.3s">VIEW PRODUCT</a>
         </div>
     </div>
 </section>

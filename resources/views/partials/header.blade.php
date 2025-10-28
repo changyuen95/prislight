@@ -55,7 +55,7 @@
                     <li class="nav-item"><a class="nav-link" href="{{route('aboutus')}}">ABOUT</a></li>
                     {{-- <li class="nav-item"><a class="nav-link" href="service.html">SERVICES</a></li> --}}
                     <li class="nav-item"><a class="nav-link" href="{{route('portfolio')}}">PORTFOLIO</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{route('team')}}">PARTNER</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{route('product')}}">PRODUCT</a></li>
                     {{-- <li class="nav-item dropdown submenu">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             BLOG
