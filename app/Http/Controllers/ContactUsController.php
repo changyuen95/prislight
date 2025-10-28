@@ -77,10 +77,10 @@ class ContactUsController extends Controller
         if ($validator->fails()) {
             return redirect()->back()->withErrors($validator)->withInput();
         }
-
-    
-        Mail::to('sales@prislight.net')->send(new ContactUsMail($request->all()));
-        Mail::to('jay@prislight.net')->send(new ContactUsMail($request->all()));
+        $emails = config('content.contactEmail');
+        foreach($emails as $email){
+            Mail::to($email)->send(new ContactUsMail($request->all()));
+        }
     
         return redirect()->back()->with('success', 'Contact Us Successfully!');
     }
