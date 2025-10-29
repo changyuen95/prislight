@@ -31,6 +31,15 @@
                     </div>
                 </div>
             @endif
+            @if (session('success'))
+                <div class="col-lg-12 col-md-12">
+                    <div class="alert alert-success">
+                        <ul>
+                        <li>{{ session('success') }}</li>
+                        </ul>
+                    </div>
+                </div>
+            @endif
             <div class="col-lg-5 col-md-6">
                 <div class="contact_info_two">
                     <div class="contact_info_item">
