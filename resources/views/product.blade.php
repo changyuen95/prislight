@@ -22,11 +22,12 @@
                 <div class="con_team_item_two">
                     <div class="team_img hover_effect">
                         <img src="img/product/amberwhite.jpg" style="width:370px;height:330px" alt="team1">
-                        {{-- <div class="social_icon">
-                            <a href="#"><i class="ti-facebook"></i></a>
-                            <a href="#"><i class="ti-twitter-alt"></i></a>
-                            <a href="#"><i class="ti-pinterest"></i></a>
-                        </div> --}}
+                        <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
+                            {{-- <a href="#"><i class="ti-twitter-alt"></i></a> --}}
+                            {{-- <a href="#"><i class="ti-pinterest"></i></a> --}}
+                            {{-- <a href="#"><p>View Product</p></a> --}}
+                        </div>
                     </div>
                     <div class="content">
                         <a href="https://light-haus.com/product-category/retail-lighting">
@@ -41,6 +42,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/zenevo.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -59,6 +61,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/zenevomini.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -77,6 +80,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/zenmini.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -95,6 +99,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/exo2.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -113,6 +118,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/exo1.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -131,6 +137,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/jetmicro.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -149,6 +156,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/zylindermicro.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -167,6 +175,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/zylindermini.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -185,6 +194,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/zylinder.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -203,6 +213,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/revoc.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
@@ -221,6 +232,7 @@
                     <div class="team_img hover_effect">
                         <img src="img/product/revocmini.jpg" style="width:370px;height:330px" alt="team1">
                         <div class="social_icon">
+                            <a href="https://light-haus.com/product-category/retail-lighting"><i class="ti-arrow-right"></i></a>
                             {{-- <a href="#"><i class="ti-facebook"></i></a>
                             <a href="#"><i class="ti-twitter-alt"></i></a>
                             <a href="#"><i class="ti-pinterest"></i></a> --}}
