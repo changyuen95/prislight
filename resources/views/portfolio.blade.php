@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Home')
+@section('title', 'Portfolio')
 
 @section('content')
 <section class="banner_area">

@@ -5,8 +5,8 @@
                 <div class="row">
                     <div class="col-md-8 col-9">
                         <div class="header_contact_info">
-                            <a href="#"><i class="fas fa-phone"></i>Call Us: +07 554 332 322</a>
-                            <a href="mailto:pixelbuilders@email.com"><i class="fas fa-envelope"></i>sales@prislight.net</a>
+                            <a href="tel:60376522813"><i class="fas fa-phone"></i>Call Us: +603-7652 2813</a>
+                            <a href="mailto:sales@prislight.net"><i class="fas fa-envelope"></i>sales@prislight.net</a>
                         </div>
                     </div>
                     {{-- <div class="col-md-4 col-3 text-right">
@@ -23,7 +23,7 @@
     </div>
     <nav class="navbar navbar-expand-lg header_two" id="header">
         <div class="container">
-            <a class="navbar-brand" href="#"><img src="img/prislightlogo.jpg" style="width:120px;height:30px"alt=""></a>
+            <a class="navbar-brand" href="{{route('homepage')}}"><img src="img/prislightlogo.jpg" style="width:120px;height:30px"alt=""></a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="menu_toggle">
                     <span class="hamburger">

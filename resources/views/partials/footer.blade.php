@@ -3,15 +3,15 @@
         <div class="row footer_top">
             <div class="col-lg-6 col-sm-7 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="f_widget info_widget">
-                    <a href="#" class="f_logo"><img src="img/Logo.png" alt=""></a>
+                    <a href="#" class="f_logo"><img src="img/prislightlogo.jpg" style="width:120px;height:30px" alt=""></a>
                     <div class="info_list">
                         <div class="info_item">
                             <i class="ti-location-pin"></i>
-                            <p>2602 Powder House Road, West Palm Beach, FL 33410</p>
+                            <p>13A, Jalan PJU 5/1, Petaling Jaya， D-01-01, Suite 10, Menara MItraland， Petaling Jaya， Selangor 47810， MY</p>
                         </div>
                         <div class="info_item">
                             <i class="ti-mobile"></i>
-                            <p><a href="tel:4355803031">+435-580-3031</a> /<a href="tel:4356284157">+435-628-4157</a></p>
+                            <p><a href="tel:0122124842">+6012-212 4842</a> /<a href="tel:0376522813">+603-7652 2813</a></p>
                         </div>
                         <div class="info_item">
                             <i class="ti-email"></i>
@@ -32,7 +32,7 @@
                     <ul class="list-unstyled">
                         <li><a href="/">Home</a></li>
                         <li><a href="/aboutus">About Us</a></li>
-                        <li><a href="/team">Partner</a></li>
+                        {{-- <li><a href="/team">Partner</a></li> --}}
                         <li><a href="/portfolio">Portfolio</a></li>
                     </ul>
                 </div>
@@ -50,6 +50,6 @@
                 </div>
             </div>
         </div>
-        <div class="footer_bottom wow fadeInUp" data-wow-delay="0.4s">© 2019. All Rights Reserved. Design by <a href="#">Pixel Builders</a></div>
+        <div class="footer_bottom wow fadeInUp" data-wow-delay="0.4s">© {{Carbon\Carbon::now()->year}}. All Rights Reserved. Design by <a href="#">Prislight</a></div>
     </div>
 </footer>

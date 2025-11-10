@@ -10,7 +10,7 @@
             <div class="container">
                 <div class="slider_text text-center">
                     <h5 data-animation="fadeInUp" data-delay="0.3s">WELCOME TO PRISLIGHT SDN BHD</h5>
-                    <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions & Electronic Components</h1>
+                    <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions</h1>
                     <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region <br> 100+ employees which include <br>Sales, Designer, Operations, R&D</p>
                     {{-- <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
                     <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a> --}}
@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="slider_text text-center">
                     <h5 data-animation="fadeInUp" data-delay="0.3s">WELCOME TO PRISLIGHT SDN BHD</h5>
-                    <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions & Electronic Components</h1>
+                    <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions</h1>
                     <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region <br> 100+ employees which include <br>Sales, Designer, Operations, R&D</p>
                     <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
                     <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a>
@@ -172,6 +172,7 @@
                     <p></p>
                 </div>
             </div>
+            <div class="col-lg-2"></div>
             <div class="col-lg-4 col-sm-6">
                 <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.6s">
                     <div class="icon">
