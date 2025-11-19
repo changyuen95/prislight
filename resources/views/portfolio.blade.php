@@ -46,7 +46,8 @@
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/h&m.png" alt="">
                     <div class="hover_content">
-                        <h5><span>H&M Group (15+ years)</span></h5>
+                        {{-- <h5><span>H&M Group (15+ years)</span></h5> --}}
+                        <h5><span>Fast Fashion (15+ years)</span></h5>
                         <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 100 stores<br>Provided interiors and lightings with planning & installation services</span></h4>
                     </div>
                 </div>
@@ -64,7 +65,8 @@
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/muji.png" alt="">
                     <div class="hover_content">
-                        <h5><span>MUJI (3+ years)</span></h5>
+                        {{-- <h5><span>MUJI (3+ years)</span></h5> --}}
+                        <h5><span>Fast Fashion (3+ years)</span></h5>
                         <h4><span>Malaysia & Philippine<br>Provided lightings with planning and adjustment services</span></h4>
                     </div>
                 </div>
@@ -136,7 +138,8 @@
                 <div class="portfolio_img hover_effect">
                     <img src="img/portfolio/dyson.png" alt="">
                     <div class="hover_content">
-                        <h5><span>Dyson (6+ years)</span></h5>
+                        {{-- <h5><span>Dyson (6+ years)</span></h5> --}}
+                        <h5><span>Accessible Premium Tech (6+ years)</span></h5>
                         <h4><span>Singapore, Malaysia, Thailand, Indonesia (50+ stores supplied till 2022)<br>Provided lightings with planning and adjustment services</span></h4>
                     </div>
                 </div>

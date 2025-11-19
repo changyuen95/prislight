@@ -50,9 +50,9 @@
                     <div class="contact_info_item">
                         <i class="ti-mobile"></i>
                         <h3>Contact Number</h3>
-                        <p>Phone: <a href="tel:0964355803031">(+096) 435 - 580 - 3031</a></p>
-                        <p>Tele: <a href="tel:0964355803031">1 (877) 636-0443 </a></p>
-                        <p>Fax: <a href="tel:0964355803031">+1-213-452-1551 </a></p>
+                        <p>Office: <a href="tel:60376522813">+603-7652 2813</a></p>
+                        <p>Fax: <a href="tel:60376522868">+603-7652 2868</a></p>
+                        <p>Mobile: <a href="tel:60122124842">+6012-212 4842 (Jay) </a></p>
                     </div>
                     <div class="contact_info_item">
                         <i class="ti-email"></i>

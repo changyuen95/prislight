@@ -233,7 +233,8 @@
                     <img src="img/home/h&m.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
-                            <h4>H&M Group (15+ years)</h4>
+                            {{-- <h4>H&M Group (15+ years)</h4> --}}
+                            <h4>Fast Fashion (15+ years)</h4>
                         </a>
                         <p>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 100 stores<br>Provided interiors and lightings with planning & installation services</p>
                     </div>
@@ -258,7 +259,8 @@
 
                     <div class="text">
                         <a href="{{route('portfolio')}}">
-                            <h4>MUJI (3+ years)</h4>
+                            {{-- <h4>MUJI (3+ years)</h4> --}}
+                            <h4>Fast Fashion (3+ years)</h4>
                         </a>
                         <p>Malaysia & Philippine<br>Provided lightings with planning and adjustment services</p>
                     </div>
@@ -355,7 +357,7 @@
                     <img src="img/home/dyson.PNG" style="width:470px;height:300px" alt="">
                     <div class="text">
                         <a href="{{route('portfolio')}}">
-                            <h4>Dyson (6+ years)</h4>
+                            <h4>Accessible Premium Tech (6+ years)</h4>
                         </a>
                         <p>Singapore, Malaysia, Thailand, Indonesia (50+ stores supplied till 2022)<br>Provided lightings with planning and adjustment services</p>
                     </div>
