@@ -24,7 +24,7 @@
                         <img src="img/home/2.jpg" alt="">
                     </div>
                     <div data-parallax='{"x": -10, "y": -25}' class="img_two">
-                        <img src="img/about/chart.png" alt="">
+                        <img src="img/about/about.jpg" alt="">
                     </div>
                 </div>
             </div>
