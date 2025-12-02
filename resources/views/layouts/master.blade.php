@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="{{ asset('vendors/themify/themify-icons.css') }}">
     <link rel="stylesheet" href="{{ asset('vendors/font-awesome/css/all.css') }}">
     <link rel="stylesheet" href="{{ asset('vendors/loader/animation.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}?v=1.0.3">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}?v=1.0.4">
     <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
 
     <title>Pixel Builders</title>

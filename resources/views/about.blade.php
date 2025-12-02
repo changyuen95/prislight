@@ -18,7 +18,7 @@
 <section class="con_work_process_area sec_gap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            {{-- <div class="col-lg-6">
                 <div class="con_work_img">
                     <div data-parallax='{"x": -10, "y": 10}' class="img_one">
                         <img src="img/home/2.jpg" alt="">
@@ -27,18 +27,19 @@
                         <img src="img/about/about.jpg" alt="">
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-6 d-flex align-items-center">
+            </div> --}}
+            <div class="col-lg-12 d-flex align-items-center text-center">
                 <div class="con_work_content">
-                    <div class="section_title">
+                    <div class="section_title text-center">
                         {{-- <h6 class="con_title_top">HOW IT WORKS</h6> --}}
                         <h2 class="con_title">Prislight Sdn Bhd</h2>
                         <div class="line_bottom"></div>
                         <p class="con_p">
-                            • Presence in countries across Asia, mainly in Southeast Asia region <br>
-                            • 100+ employees which include (Sales, Designer, Operations, R&D) <br>
-                            • Key customers: Fashion Brands & Home Improvement <br>
-                            • One Stop Retail Solutions & Electronic Components <br>
+                            Presence in countries across Asia, mainly in Southeast Asia region <br>
+                            Headquartered in Singapore and operating across various countries in the region<br>
+                            100+ employees which include (Sales, Designer, Operations, R&D) <br>
+                            Key customers: Fashion Brands & Home Improvement <br>
+                            One Stop Retail Solutions & Electronic Components <br>
                         </p>
                     </div>
                     <div class="row">
@@ -93,7 +94,7 @@
     </div>
 </section>
 <!-- ================= About Overview ================= -->
-<section class="about_overview sec_gap">
+<section class="about_overview sec_gap bg-light">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
@@ -121,7 +122,7 @@
 </section>
 
 <!-- ================= Vision & Mission ================= -->
-<section class="vision_mission_area sec_gap bg-light">
+<section class="vision_mission_area sec_gap ">
     <div class="container">
         <div class="section_title text-center mb-5">
             <h2 class="con_title">Vision & Mission</h2>

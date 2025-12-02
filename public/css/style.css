@@ -1282,6 +1282,10 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   margin-bottom: 25px;
 }
 
+.con_service_item .icon2 {
+  line-height: 50px;
+  margin-bottom: 25px;
+}
 .con_service_item h4 {
   font-size: 24px;
   line-height: 26px;

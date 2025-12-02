@@ -23,7 +23,7 @@
     </div>
     <nav class="navbar navbar-expand-lg header_two" id="header">
         <div class="container">
-            <a class="navbar-brand" href="{{route('homepage')}}"><img src="img/prislightlogo.jpg" style="width:120px;height:30px"alt=""></a>
+            <a class="navbar-brand" href="{{route('homepage')}}"><img src="img/prislightlogo.jpg" style="width:200px;height:45px"alt=""></a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="menu_toggle">
                     <span class="hamburger">
