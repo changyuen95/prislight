@@ -26,19 +26,19 @@
             <div data-filter=".design" class="work_portfolio_item">INTERIOR DESIGN</div>
         </div> --}}
         <div id="portfolio_filter" class="portfolio_filter">
-            <div data-filter="*" class="work_portfolio_item active">ALL</div>
-            <div data-filter=".planning" class="work_portfolio_item">Planning</div>
-            <div data-filter=".installation" class="work_portfolio_item">Installation</div>
+            <div data-filter="*" class="work_portfolio_item active">Reference</div>
+            <div data-filter=".planning" class="work_portfolio_item">Design</div>
+            <div data-filter=".installation" class="work_portfolio_item">Fit Out</div>
+            <div data-filter=".renovation" class="work_portfolio_item">LED screen</div>
             <div data-filter=".maintenance" class="work_portfolio_item">Maintenance Services</div>
-            <div data-filter=".renovation" class="work_portfolio_item">Renovation Work</div>
         </div>
         <div class="row portfolio_gallery" id="work-portfolio">
             <div class="col-lg-4 col-sm-6 portfolio_item planning in">
                 <div class="portfolio_img hover_effect">
-                    <img src="img/portfolio/fastretailing.png" alt="">
+                    <img src="img/portfolio/fastretailing2.png" alt="">
                     <div class="hover_content">
                         <h5><span>FAST RETAILING (5+ years)</span></h5>
-                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 100 stores<br>Provided lightings with planning, installation, maintenance services & renovation work</span></h4>
+                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 100 stores<br>Provided lightings with planning, installation, maintenance services & renovation work</span></h4>
                     </div>
                 </div>
             </div>
@@ -48,13 +48,13 @@
                     <div class="hover_content">
                         {{-- <h5><span>H&M Group (15+ years)</span></h5> --}}
                         <h5><span>Fast Fashion (15+ years)</span></h5>
-                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 100 stores<br>Provided interiors and lightings with planning & installation services</span></h4>
+                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 100 stores<br>Provided interiors and lightings with planning & installation services</span></h4>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 portfolio_item maintenance design">
                 <div class="portfolio_img hover_effect">
-                    <img src="img/portfolio/nitori.png" alt="">
+                    <img src="img/portfolio/nitori1.png" alt="">
                     <div class="hover_content">
                         <h5><span>NITORI (5+ years)</span></h5>
                         <h4><span>Singapore, Malaysia and Thailand<br>Provided lightings with planning, adjustment services, LED Display & renovation work</span></h4>
@@ -85,7 +85,7 @@
                     <img src="img/portfolio/coach.png" alt="">
                     <div class="hover_content">
                         <h5><span>COACH (10+ years)</span></h5>
-                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 50 stores<br>Provided lightings with planning and adjustment services</span></h4>
+                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 50 stores<br>Provided lightings with planning and adjustment services</span></h4>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@
                     <img src="img/portfolio/katespade.png" alt="">
                     <div class="hover_content">
                         <h5><span>Kate Spade (10+ years)</span></h5>
-                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 50 stores<br>Provided lightings with planning and adjustment services</span></h4>
+                        <h4><span>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 50 stores<br>Provided lightings with planning and adjustment services</span></h4>
                     </div>
                 </div>
             </div>

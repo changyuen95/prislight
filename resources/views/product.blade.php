@@ -1,6 +1,10 @@
 @extends('layouts.master')
 
-@section('title', 'Product')
+@section('title', 'ITAB Product Series | Prislight')
+
+@section('meta')
+    <meta name="description" content="ITAB Product Series featuring Moon, Moon Micro and Moon Mini downlights by Prislight. Premium architectural lighting solutions.">
+@endsection
 
 @section('content')
 <section class="banner_area team_banner_area">

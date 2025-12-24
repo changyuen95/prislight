@@ -7,7 +7,7 @@
                     <div class="info_list">
                         <div class="info_item">
                             <i class="ti-location-pin"></i>
-                            <p>13A, Jalan PJU 5/1, Petaling Jaya， D-01-01, Suite 10, Menara MItraland， Petaling Jaya， Selangor 47810， MY</p>
+                            <p>B-02-17, Kompleks Perindustrian Emhub, Persiaran Surian, Seksyen 3, Taman Sains Selangor, Kota Damansara, 47810, Petaling Jaya.</p>
                         </div>
                         <div class="info_item">
                             <i class="ti-mobile"></i>
@@ -20,6 +20,17 @@
                         <div class="info_item">
                             <i class="ti-email"></i>
                             <p><a href="mailto:jay@prislight.net">jay@prislight.net</a></p>
+                        </div>
+                        <div class="info_item">
+                            <a href="https://www.linkedin.com/company/prislight-sdn-bhd">
+                                <i class="ti-linkedin" style="position:static; margin-right:12px;"></i>
+                            </a>
+                            <a href="http://wa.me/60122124842">
+                                <i class="fab fa-whatsapp" style="position:static; margin-right:12px;"></i>
+                            </a>
+                            <a href="https://instagram.com/prislightnet">
+                                <i class="ti-instagram" style="position:static;"></i>
+                            </a>
                         </div>
                     </div>
                   

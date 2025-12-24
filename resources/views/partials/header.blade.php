@@ -7,6 +7,9 @@
                         <div class="header_contact_info">
                             <a href="tel:60376522813"><i class="fas fa-phone"></i>Call Us: +603-7652 2813</a>
                             <a href="mailto:sales@prislight.net"><i class="fas fa-envelope"></i>sales@prislight.net</a>
+                            <a href="https://www.linkedin.com/company/prislight-sdn-bhd"><i class="ti-linkedin"></i></a>
+                            <a href="http://wa.me/60122124842"><i class="fab fa-whatsapp"></i></a>
+                            <a href="https://instagram.com/prislightnet"><i class="ti-instagram"></i></a>
                         </div>
                     </div>
                     {{-- <div class="col-md-4 col-3 text-right">

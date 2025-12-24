@@ -11,9 +11,12 @@
                 <div class="slider_text text-center">
                     <h5 data-animation="fadeInUp" data-delay="0.3s">WELCOME TO PRISLIGHT SDN BHD</h5>
                     <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions</h1>
-                    <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region <br> 100+ employees which include <br>Sales, Designer, Operations, R&D</p>
+                    <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region </p>
+                        {{-- <br> 100+ employees which include <br>Sales, Designer, Operations, R&D --}}
                     {{-- <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
                     <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a> --}}
+                      <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
+                    <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -23,9 +26,12 @@
                 <div class="slider_text text-center">
                     <h5 data-animation="fadeInUp" data-delay="0.3s">WELCOME TO PRISLIGHT SDN BHD</h5>
                     <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions</h1>
-                    <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region <br> 100+ employees which include <br>Sales, Designer, Operations, R&D</p>
-                    <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
-                    <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a>
+                    <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region </p>
+                        {{-- <br> 100+ employees which include <br>Sales, Designer, Operations, R&D --}}
+                    <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Design</a>
+
+
+                  
                 </div>
             </div>
         </div>
@@ -70,10 +76,10 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                       <div class="col-lg-6 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
                             <div class="media con_features_item">
                                 <div class="media_icon">
-                                    <img src="img/home-1/icon2.png" alt="">
+                                    <i class="fas fa-laptop-code" style="font-size:48px;color:#555555;;"></i>
                                 </div>
                                 <div class="media-body">
                                     <h3>MODERN TOOLS</h3>
@@ -138,7 +144,7 @@
                 <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.2s">
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
-                        <img src="img/home-1/concept.PNG" style="width:150px;height:150px"alt="">
+                        <img src="img/home-1/concept.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Design Concept</h4>
@@ -151,7 +157,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
                         {{-- <img src="img/home/icon2.png" alt=""> --}}
-                        <img src="img/home-1/projectmanagement.PNG" style="width:150px;height:150px"alt="">
+                        <img src="img/home-1/projectmanagement.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Project Management</h4>
@@ -164,7 +170,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon4.png" alt=""> --}}
-                        <img src="img/home-1/logistic.PNG" style="width:150px;height:150px"alt="">
+                        <img src="img/home-1/logistic.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Logistics</h4>
@@ -178,7 +184,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/installation.PNG" style="width:150px;height:150px"alt="">
+                        <img src="img/home-1/installation.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Installation</h4>
@@ -192,7 +198,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/aftersalessvc.PNG" style="width:150px;height:150px"alt="">
+                        <img src="img/home-1/aftersalessvc.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>After Sales Service</h4>
@@ -224,7 +230,7 @@
                         <a href="{{route('portfolio')}}">
                             <h4>FAST RETAILING (5+ years)</h4>
                         </a>
-                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 100 stores<br>Provided lightings with planning, installation, maintenance services & renovation work</p>
+                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 100 stores<br>Provided lightings with planning, installation, maintenance services & renovation work</p>
                     </div>
                 </div>
             </div>
@@ -236,7 +242,7 @@
                             {{-- <h4>H&M Group (15+ years)</h4> --}}
                             <h4>Fast Fashion (15+ years)</h4>
                         </a>
-                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 100 stores<br>Provided interiors and lightings with planning & installation services</p>
+                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 100 stores<br>Provided interiors and lightings with planning & installation services</p>
                     </div>
                 </div>
             </div>
@@ -287,7 +293,7 @@
                         <a href="{{route('portfolio')}}">
                             <h4>COACH (10+ years)</h4>
                         </a>
-                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 50 stores<br>Provided lightings with planning and adjustment services</p>
+                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 50 stores<br>Provided lightings with planning and adjustment services</p>
                     </div>
                 </div>
             </div>
@@ -299,7 +305,7 @@
                         <a href="{{route('portfolio')}}">
                             <h4>Kate Spade (10+ years)</h4>
                         </a>
-                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippine in over 50 stores<br>Provided lightings with planning and adjustment services</p>
+                        <p>Singapore, Malaysia, Thailand, Indonesia & Philippines in over 50 stores<br>Provided lightings with planning and adjustment services</p>
                     </div>
                 </div>
             </div>
