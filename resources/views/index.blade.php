@@ -45,14 +45,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <div class="con_work_img">
+                <div class="con_work_img" style="margin-left: -50px;">
                     <div class="wow fadeInLeft">
                         <div data-parallax='{"x": -10, "y": 10}' class="img_one">
                             <img src="img/home/1.PNG" style="width:385px;height:520px" alt="">
                         </div>
                     </div>
                     <div data-parallax='{"x": -10, "y": -25}' class="img_two wow fadeInLeft">
-                        <img class="wow fadeInLeft" data-wow-delay="0.4s" src="img/home/3.PNG" style="width:440px;height:560px"alt="">
+                        <img class="wow fadeInLeft" data-wow-delay="0.4s" src="img/home/image018.jpg" style="width:540px;height:520px"alt="">
                     </div>
                 </div>
             </div>
@@ -132,6 +132,55 @@
         <a href="#" class="con_btn btn_effect wow fadeInUp" data-wow-delay="0.2s">LEARN MORE</a>
     </div>
 </section> --}}
+<section class="con_service_area_two ">
+    <div class="container">
+        <div class="section_title text-center wow fadeInUp" data-wow-delay="0.4s">
+            <h6 class="con_title_top">OUR PRODUCTS</h6>
+            {{-- <h2 class="con_title">We Build Everything</h2> --}}
+            {{-- <p class="con_p">That ummm I'm telling Why say bleeder smashing lemon squeezy tosser,<br> cheesed off dropped.!</p> --}}
+        </div>
+        <div class="row service_info_two">
+            <div class="col-lg-4 col-sm-6">
+                <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="icon2">
+                        {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
+                        <img src="img/home-1/ledscreen.png" style="width:225px;height:225px"alt="">
+                    </div>
+                    <a href="#">
+                        <h4>LED Screen</h4>
+                    </a>
+                    <p></p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="icon2">
+                        {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
+                        {{-- <img src="img/home/icon2.png" alt=""> --}}
+                        <img src="img/home-1/downlight.PNG" style="width:225px;height:225px"alt="">
+                    </div>
+                    <a href="#">
+                        <h4>Downlight</h4>
+                    </a>
+                    <p></p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="icon2">
+                        {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
+                        <img src="img/home/icon4.png" alt=""> --}}
+                        <img src="img/home-1/tracklight.png" style="width:225px;height:225px"alt="">
+                    </div>
+                    <a href="#">
+                        <h4>Tracklight</h4>
+                    </a>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="con_service_area_two sec_gap">
     <div class="container">
         <div class="section_title text-center wow fadeInUp" data-wow-delay="0.4s">
@@ -144,7 +193,7 @@
                 <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.2s">
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
-                        <img src="img/home-1/concept.PNG" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/designconcept2.png" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Design Concept</h4>
@@ -170,7 +219,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon4.png" alt=""> --}}
-                        <img src="img/home-1/logistic.PNG" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/logistic2.png" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Logistics</h4>
@@ -198,7 +247,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/aftersalessvc.PNG" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/aftersales2.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>After Sales Service</h4>
