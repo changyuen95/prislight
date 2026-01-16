@@ -157,7 +157,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
                         {{-- <img src="img/home/icon2.png" alt=""> --}}
-                        <img src="img/home-1/downlight.PNG" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/downlight.png" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Downlight</h4>
@@ -193,7 +193,7 @@
                 <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.2s">
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
-                        <img src="img/home-1/designconcept2.png" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/designconcept2.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Design Concept</h4>
@@ -219,7 +219,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon4.png" alt=""> --}}
-                        <img src="img/home-1/logistic2.png" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/logistic2.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Logistics</h4>
