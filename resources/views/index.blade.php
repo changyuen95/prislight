@@ -135,7 +135,7 @@
 <section class="con_service_area_two ">
     <div class="container">
         <div class="section_title text-center wow fadeInUp" data-wow-delay="0.4s">
-            <h6 class="con_title_top">OUR PRODUCTS</h6>
+            <h6 class="con_title_top" style="font-size:35px">OUR PRODUCTS</h6>
             {{-- <h2 class="con_title">We Build Everything</h2> --}}
             {{-- <p class="con_p">That ummm I'm telling Why say bleeder smashing lemon squeezy tosser,<br> cheesed off dropped.!</p> --}}
         </div>
@@ -206,7 +206,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
                         {{-- <img src="img/home/icon2.png" alt=""> --}}
-                        <img src="img/home-1/projectmanagement.PNG" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/project_management.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Project Management</h4>
@@ -233,7 +233,7 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon3.png" alt=""> --}}
-                        <img src="img/home-1/installation.PNG" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/installation1.PNG" style="width:225px;height:225px"alt="">
                     </div>
                     <a href="#">
                         <h4>Installation</h4>

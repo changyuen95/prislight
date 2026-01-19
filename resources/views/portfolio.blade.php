@@ -26,11 +26,11 @@
             <div data-filter=".design" class="work_portfolio_item">INTERIOR DESIGN</div>
         </div> --}}
         <div id="portfolio_filter" class="portfolio_filter">
-            <div data-filter="*" class="work_portfolio_item active">Reference</div>
-            <div data-filter=".planning" class="work_portfolio_item">Design</div>
-            <div data-filter=".installation" class="work_portfolio_item">Fit Out</div>
-            <div data-filter=".renovation" class="work_portfolio_item">LED screen</div>
-            <div data-filter=".maintenance" class="work_portfolio_item">Maintenance Services</div>
+            <div data-filter="*" class="work_portfolio_item active" style="font-size:21px">Reference</div>
+            <div data-filter=".planning" class="work_portfolio_item" style="font-size:21px">Design</div>
+            <div data-filter=".installation" class="work_portfolio_item" style="font-size:21px">Fit Out</div>
+            <div data-filter=".renovation" class="work_portfolio_item" style="font-size:21px">LED screen</div>
+            <div data-filter=".maintenance" class="work_portfolio_item" style="font-size:21px">Maintenance Services</div>
         </div>
         <div class="row portfolio_gallery" id="work-portfolio">
             <div class="col-lg-4 col-sm-6 portfolio_item planning in">

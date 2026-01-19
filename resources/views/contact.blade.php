@@ -45,11 +45,13 @@
                     <div class="contact_info_item">
                         <i class="ti-location-pin"></i>
                         <h3>Address</h3>
-                        <p><img src="https://flagcdn.com/sg.svg" alt="Singapore Flag" style="width:32px;height:auto;">  Nexcomm Asia Pte Ltd<br>13 Braddell Tech, #06-04, Toa Payoh Lorong 8, Singapore 319261</p>
-                        <br>
+                        {{-- <p><img src="https://flagcdn.com/sg.svg" alt="Singapore Flag" style="width:32px;height:auto;">  Nexcomm Asia Pte Ltd<br>13 Braddell Tech, #06-04, Toa Payoh Lorong 8, Singapore 319261</p>
+                        <br> --}}
                         <p><img src="https://flagcdn.com/id.svg" alt="Indonesia Flag" width="32" height="24"> PT. NXM Teknologi Jaya<br>Tempo Scan Tower Lt.32, JI.HR.Rasuna Said Kav.3-4,Kuningan Timur, Setiabudi, Jakarta Selatab DKI Jakarta<p>
                         <br>
-                        <p><img src="https://flagcdn.com/ph.svg" alt="Philippines Flag" width="32" height="24"> Nexxtrade Corporation<br>Unit 210 No.15 Don Benito, Hernandez Barangay, 76 Pasay City, Fourth District, NCR, 1300, Philippines<p>      
+                        <p><img src="https://flagcdn.com/ph.svg" alt="Philippines Flag" width="32" height="24"> Nexxtrade Corporation<br>Unit 210 No.15 Don Benito, Hernandez Barangay, 76 Pasay City, Fourth District, NCR, 1300, Philippines<p>    
+                        <br>
+                        <p><img src="https://flagcdn.com/th.svg" alt="Thailand Flag" width="32" height="24"> NXM Technology Co., Ltd<br>219/2 2nd floor room 105, Asoke Tower, Sukhumvit 21 Road, Khlong Toei Nuea Sub-district, Watthana District, Bangkok 10110<p>    
                     </div>
                     <div class="contact_info_item">
                         <i class="ti-mobile"></i>
@@ -62,19 +64,8 @@
                         <i class="ti-email"></i>
                         <h3>Email Address</h3>
                         <p><a href="mailto:sales@prislight.net">sales@prislight.net</a></p>
-                        <p><a href="mailto:jay@prislight.net">jay@prislight.net</a></p>
-                        <p><a href="mailto:jay@nexcomm-asia.com">jay@nexcomm-asia.com (Singapore)</a></p>
-                        <p><a href="mailto:meiying@nexcomm-asia.com">meiying@nexcomm-asia.com (Singapore)</a></p>
-                        <p><a href="mailto:jay@nxmco.net">jay@nxmco.net (Indonesia)</a></p>
-                        <p><a href="mailto:sales@nxmco.net">sales@nxmco.net (Anthony) (Indonesia)</a></p>
-                        <p><a href="mailto:jay@nxmco.net">jay@nxmco.net (Thailand)</a></p>
-                        <p><a href="mailto:amnut@nxmco.net">amnut@nxmco.net (Thailand)</a></p>
-                        <p><a href="mailto:jay@nexxtrade.net">jay@nexxtrade.net (Philippines)</a></p>
-                        <p><a href="mailto:leah@nexxtrade.net">leah@nexxtrade.net (Philippines)</a></p>
-
-                        
-
-
+                        <p><img src="https://flagcdn.com/id.svg" alt="Indonesia Flag" width="24" height="18"> <img src="https://flagcdn.com/th.svg" alt="Thailand Flag" width="24" height="18"> <a href="mailto:sales@nxmco.net">sales@nxmco.net (Anthony)</a></p>
+                        {{-- <p><img src="https://flagcdn.com/th.svg" alt="Thailand Flag" width="24" height="18"> <a href="mailto:amnut@nxmco.net">amnut@nxmco.net</a></p> --}}
                     </div>
                     {{-- <div class="social_icon">
                         <h3>Follow Us On</h3>
