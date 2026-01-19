@@ -15,8 +15,8 @@
                         {{-- <br> 100+ employees which include <br>Sales, Designer, Operations, R&D --}}
                     {{-- <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
                     <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a> --}}
-                      <a href="#" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
-                    <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a>
+                      <a href="/aboutus" class="con_btn slider_btn_one btn_effect" data-animation="fadeInLeft" data-delay="1.1s">Learn More</a>
+                    <a href="/contactus" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -28,7 +28,7 @@
                     <h1 data-animation="fadeInUp" data-delay="0.5s">One Stop Retail Solutions</h1>
                     <p data-animation="fadeInUp" data-delay="0.9s">Presence in countries across Asia, mainly in Southeast Asia region </p>
                         {{-- <br> 100+ employees which include <br>Sales, Designer, Operations, R&D --}}
-                    <a href="#" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Design</a>
+                    <a href="/portfolio" class="con_btn slider_btn_two btn_effect" data-animation="fadeInRight" data-delay="1.1s">Design</a>
 
 
                   
@@ -146,7 +146,7 @@
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
                         <img src="img/home-1/ledscreen.png" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>LED Screen</h4>
                     </a>
                     <p></p>
@@ -157,9 +157,9 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
                         {{-- <img src="img/home/icon2.png" alt=""> --}}
-                        <img src="img/home-1/downlight.PNG" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/downlight.png" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>Downlight</h4>
                     </a>
                     <p></p>
@@ -172,7 +172,7 @@
                         <img src="img/home/icon4.png" alt=""> --}}
                         <img src="img/home-1/tracklight.png" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>Tracklight</h4>
                     </a>
                     <p></p>
@@ -193,9 +193,9 @@
                 <div class="con_service_item text-center wow fadeInUp" data-wow-delay="0.2s">
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt=""> --}}
-                        <img src="img/home-1/designconcept2.png" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/designconcept2.PNG" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>Design Concept</h4>
                     </a>
                     <p></p>
@@ -208,7 +208,7 @@
                         {{-- <img src="img/home/icon2.png" alt=""> --}}
                         <img src="img/home-1/project_management.PNG" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>Project Management</h4>
                     </a>
                     <p></p>
@@ -219,9 +219,9 @@
                     <div class="icon2">
                         {{-- <img class="overlay_bg" src="img/home-1/shap.png" alt="">
                         <img src="img/home/icon4.png" alt=""> --}}
-                        <img src="img/home-1/logistic2.png" style="width:225px;height:225px"alt="">
+                        <img src="img/home-1/logistic2.PNG" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>Logistics</h4>
                     </a>
                     <p></p>
@@ -235,7 +235,7 @@
                         <img src="img/home/icon3.png" alt=""> --}}
                         <img src="img/home-1/installation1.PNG" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>Installation</h4>
                     </a>
                     <p>
@@ -249,7 +249,7 @@
                         <img src="img/home/icon3.png" alt=""> --}}
                         <img src="img/home-1/aftersales2.PNG" style="width:225px;height:225px"alt="">
                     </div>
-                    <a href="#">
+                    <a href="/product">
                         <h4>After Sales Service</h4>
                     </a>
                     <p></p>
